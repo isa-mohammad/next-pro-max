@@ -14,6 +14,7 @@ Build ECommerce Website Like Amazon by Next.js
  - Deploy web applications on servers like Vercel and Netlify
 
 ## Full Course
+
 Learn building this ecommerce website on Udemy with 90% discount:
 https://www.udemy.com/course/nextjs-ecommerce
 
