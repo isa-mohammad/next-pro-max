@@ -12,6 +12,7 @@ Build ECommerce Website Like Amazon by Next.js
  - MongoDB and Mongoose to save and retrieve data like products, orders and users
  - PayPal developer api to make online payment
  - Deploy web applications on servers like Vercel and Netlify
+ - 
 
 ## Full Course
 
